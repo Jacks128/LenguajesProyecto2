@@ -1,0 +1,9 @@
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\bin\Debug\proyecto2_Jacks.exe.config
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\bin\Debug\proyecto2_Jacks.exe
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\bin\Debug\proyecto2_Jacks.pdb
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\obj\Debug\proyecto2_Jacks.Form1.resources
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\obj\Debug\proyecto2_Jacks.Properties.Resources.resources
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\obj\Debug\proyecto2_Jacks.csproj.GenerateResource.cache
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\obj\Debug\proyecto2_Jacks.csproj.CoreCompileInputs.cache
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\obj\Debug\proyecto2_Jacks.exe
+C:\Users\Benitez\source\repos\proyecto2_Jacks\proyecto2_Jacks\obj\Debug\proyecto2_Jacks.pdb
